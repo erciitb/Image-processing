@@ -2,6 +2,7 @@
 
 ## Installing python: 
 **Linux**: Already has python. If want a different version use the following command: sudo apt install python<version>
+  
 **MAC & Windows**: Go to https://www.python.org/downloads/release/python-392/ and download the setup. Run the setup and python will be installed
 
 To work with python, an ide is preferable. Following are some good ide:
