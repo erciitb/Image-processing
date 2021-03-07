@@ -30,7 +30,6 @@ Here are some good resources to get yourself familiarized with Python:
 6. For book readers, https://automatetheboringstuff.com/
 
 ## Contents
-See the following slides: 
 
 1. Reading images and videos in OpenCV (code in [Basics](../blob/main/basics.ipynb))
 2. Thresholding  (code: [Thresholding](../blob/main/basics.ipynb))
@@ -40,3 +39,5 @@ See the following slides:
 6. Edge Detection (code: [Edge](../blob/main/Part_2/edge.py))
 7. Contours (code: [Contour](../blob/main/Part_2/contours.py) and [More on Contour](../blob/main/Part_2/contour_stuff.py))
 8. Applications and Uses of Image Processing(code: [Circles](../blob/main/Part_2/detect_circles.py), [Squares](../blob/main/Part_2/detect_squares.py), [Polygon](../blob/main/Part_2/detect_squares.py))
+
+See the following slides: 
