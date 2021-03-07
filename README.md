@@ -11,6 +11,7 @@ To work with python, an ide is preferable. Following are some good ide:
 3. Atom: https://atom.io/
 4. PyCharm: https://www.jetbrains.com/pycharm/
 5. Jupyter Notebook: https://jupyter.org/install
+
 Any other ide is also fine. You can use python online too for e.g. on google colab.
 
 ## Installing OpenCV:
