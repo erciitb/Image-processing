@@ -17,3 +17,13 @@ Any other ide is also fine. You can use python online too for e.g. on google col
 The easiest way to install opencv is to use pip. After installing python, use following command: `pip install opencv-python`
 
 Again, you can use online plateforms for using opencv. It works fine on Google Colab with a bit of modifications.
+
+
+## Working with Python
+Here are some good resources to get yourself familiarized with Python:
+1. https://docs.python.org/3/tutorial/ (For whoever reads the docs)
+2. From the basics: https://www.programiz.com/python-programming/tutorial
+3. If the above is too low level, https://www.learnpython.org/
+4. The one with good internet packages and like videos, https://www.youtube.com/watch?v=_uQrJ0TkZlc&ab_channel=ProgrammingwithMosh
+5. Concise Guide: https://github.com/wncc/learners-space/tree/master/Python
+6. For book readers, https://automatetheboringstuff.com/
