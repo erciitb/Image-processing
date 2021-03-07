@@ -28,3 +28,15 @@ Here are some good resources to get yourself familiarized with Python:
 4. The one with good internet packages and like videos, https://www.youtube.com/watch?v=_uQrJ0TkZlc&ab_channel=ProgrammingwithMosh
 5. Concise Guide: https://github.com/wncc/learners-space/tree/master/Python
 6. For book readers, https://automatetheboringstuff.com/
+
+## Contents
+See the following slides: 
+
+1. Reading images and videos in OpenCV (code in [Basics](../blob/main/basics.ipynb))
+2. Thresholding  (code: [Thresholding](../blob/main/basics.ipynb))
+3. Colour/Object Detection using OpenCV (code: [Detection](../blob/main/basics.ipynb))
+4. Blurring (code: [Blurring and Noise](../blob/main/basics.ipynb))
+5. Morphology (code: [Morph](../blob/main/Part_2/morph.py))
+6. Edge Detection (code: [Edge](../blob/main/Part_2/edge.py))
+7. Contours (code: [Contour](../blob/main/Part_2/contours.py) and [More on Contour](../blob/main/Part_2/contour_stuff.py))
+8. Applications and Uses of Image Processing(code: [Circles](../blob/main/Part_2/detect_circles.py), [Squares](../blob/main/Part_2/detect_squares.py), [Polygon](../blob/main/Part_2/detect_squares.py))
