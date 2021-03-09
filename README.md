@@ -33,11 +33,11 @@ Here are some good resources to get yourself familiarized with Python:
 
 1. Reading images and videos in OpenCV (code in [Basics](../main/basics.ipynb))
 2. Thresholding  (code: [Thresholding](../main/basics.ipynb))
-3. Colour/Object Detection using OpenCV (code: [Detection](../gmain/basics.ipynb))
-4. Blurring (code: [Blurring and Noise](../gmain/basics.ipynb))
-5. Morphology (code: [Morph](../gmain/Part_2/morph.py))
-6. Edge Detection (code: [Edge](../gmain/Part_2/edge.py))
-7. Contours (code: [Contour](../gmain/Part_2/contours.py) and [More on Contour](../gmain/Part_2/contour_stuff.py))
-8. Applications and Uses of Image Processing(code: [Circles](../gmain/Part_2/detect_circles.py), [Squares](../gmain/Part_2/detect_squares.py), [Polygon](../gmain/Part_2/detect_squares.py))
+3. Colour/Object Detection using OpenCV (code: [Detection](../main/basics.ipynb))
+4. Blurring (code: [Blurring and Noise](../main/basics.ipynb))
+5. Morphology (code: [Morph](../main/Part_2/morph.py))
+6. Edge Detection (code: [Edge](../main/Part_2/edge.py))
+7. Contours (code: [Contour](../main/Part_2/contours.py) and [More on Contour](../main/Part_2/contour_stuff.py))
+8. Applications and Uses of Image Processing(code: [Circles](../main/Part_2/detect_circles.py), [Squares](../main/Part_2/detect_squares.py), [Polygon](../main/Part_2/detect_squares.py))
 
 See the following [Slides](https://drive.google.com/file/d/1iP4JYpzDvna1QwiZc6gs9Lod9nkdlf1j/view?usp=sharing)
