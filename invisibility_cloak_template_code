@@ -1,0 +1,52 @@
+import cv2
+import numpy as np
+import time
+
+print("""
+
+Harry :  Hey !! Would you like to try my invisibility cloak ??
+ why not ,I have attended the ERC workshop now .
+        Get ready to be invisible......
+
+        
+    """)
+
+
+cap = cv2.VideoCapture(0)
+time.sleep(3)
+background=0
+for i in range(30):
+	ret,background = cap.read()
+
+
+while(cap.isOpened()):
+	ret, img = cap.read()
+	
+	
+	
+	# Converting image to HSV color space.
+	hsv = #fill in the blanks
+	
+	
+	# Defining lower range for red color detection.
+	lower_red = np.array([0,120,70])
+	upper_red = np.array([10,255,255])
+	mask1 =#fill in the blanks
+	
+	# Defining upper range for red color detection
+	lower_red = np.array([170,120,70])
+	upper_red = np.array([180,255,255])
+	mask2 = cv2.inRange(#fill in the blanks,#fill in the blanks,#fill in the blanks)
+
+	
+	# Addition of the two masks to generate the final mask.
+	mask = mask1+ #Fill in the blanks
+    mask = cv2.morphologyEx(mask, cv2.MORPH_OPEN, np.ones((5,5),np.uint8))
+	
+	# Replacing pixels corresponding to cloak with the background pixels.
+	img[np.where(mask==255)] = #Fillin the blanks
+	cv2.imshow('fill as you want',img)
+	k = cv2.waitKey(10)
+	if k == #fill in the blank (fill the ascii value of key you like :0 ex->27 for escape key):
+		break
+
